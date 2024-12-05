@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrontendSuberu
-- 👀 I’m interested in Web Development i will dive into Mobile Development as well 
+- 👀 I’m an enthusist of both web and mobile 
 - 🌱 I’m currently learning NodeJS and Creative Web Development
 - 💞️ I’m looking to collaborate on Web, Web App based Projects
 - 📫 How to reach me through email joeysuberu@gmail.com
