@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @FrontendSuberu
-- 👀 I’m an enthusist of both web and mobile 
-- 🌱 I’m currently learning NodeJS and Creative Web Development
-- 💞️ I’m looking to collaborate on Web, Web App based Projects
-- 📫 How to reach me through email joeysuberu@gmail.com
+-  I’m an Aspiring software engineer.
+-  Currently working on my saas - Taskforce
+- 💞️ I look forward to collaborating on a project with you.
+- 📫 How to reach me through email: joeysuberu@gmail.com
+-  
 - 
-- ⚡ Fun fact: Am a teen
+- ⚡ Fun fact: I am a teenager ( 17 )
 
 <!---
 FrontendSuberu/FrontendSuberu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
