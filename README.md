@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrontendSuberu
+- 👋 Hi
 -  I’m an Aspiring software engineer.
 -  Currently working on my saas - Taskforce
 - 💞️ I look forward to collaborating on a project with you.
